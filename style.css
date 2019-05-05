@@ -1,0 +1,131 @@
+
+
+#logo{
+    float:left;
+
+    color:#26bf68;
+}
+
+#logo:hover{
+    text-decoration:none;
+
+    color:#26bf68;
+}
+.logo .li:h{
+    color:#e04343;
+}
+
+.navbar-nav > li{
+  margin-right:40px;
+  margin-left:40px;
+  padding-right:100px;
+  padding-left:100px;
+}
+
+.center{
+    background-image: url("images/allthewaytothetop.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.jumbotron{
+  height:1100px;
+    color:white;
+
+}
+.jumbotron .p{
+    font-size:40em;
+
+}
+
+
+.unlist{
+    position: left;
+    right: 140px;
+    bottom: 90px;
+
+    list-style-position:inside;
+
+    text-align:left;
+
+    color:black;
+
+    font-size: 20px;
+}
+
+.ulist{
+    position: left;
+    right: 140px;
+    bottom: -100px;
+
+    list-style-position:inside;
+
+    text-align:left;
+
+    color:black;
+
+    font-size:20px;
+}
+
+.nav-link{
+    border-color: #60bca0;
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: dotted;
+}
+/*
+.nav-link #about{
+    border-color: #3e6dd8;
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: dotted;
+}*/
+
+
+.container> h6{
+    position:left;
+    top: 90px;
+    right: 40px;
+}
+
+.footer{
+    margin-top: 45px;
+    padding-top: 5px;
+
+    text-align:center;
+
+    color: #777;
+    border-top: 2px solid #eaeaea;
+}
+.footer a:hover{
+    color: #222;
+}
+
+.footer small{
+    text-align:center;
+
+}
+
+.footer nav{
+    display: inline;
+
+    text-align:center;
+
+}
+.card-title{
+  text-align: center;
+
+}
+
+.card-body{
+    background-color: #b1e1e2;
+
+}
+.card-group{
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+    background-color: #528284;
+}
